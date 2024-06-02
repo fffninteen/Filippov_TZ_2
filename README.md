@@ -1,5 +1,7 @@
 # Техническое задание №2 (ТЗ2)
 
+![Java CI with Maven](https://github.com/fffninteen/Filippov_TZ_2/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 ## Условие 
 
 ### Часть №1 *Тестирование* (стоит 5 баллов из 10)
