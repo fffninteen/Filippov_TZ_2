@@ -1,6 +1,6 @@
 # Техническое задание №2 (ТЗ2)
 
-[![Java CI with Maven](https://github.com/fffninteen/Filippov_TZ_2/actions/workflows/main.yml/badge.svg)](https://github.comfffninteen/Filippov_TZ_2/actions/workflows/main.yml)
+[![Build Status](https://github.com/fffninteen/Filippov_TZ_2/workflows/Java%20CI%20with%20Maven/badge.svg)](https://github.com/fffninteen/Filippov_TZ_2/actions/workflows/main.yml)
 
 ## Условие 
 
